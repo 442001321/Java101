@@ -1,25 +1,23 @@
 import java.util.Scanner;
-/*
-Ask the user to enter two float digits. For example ( 3.5 and 11.25 )
-Print the calculation for the two digits in separate lines:
-Addition +
-Subtraction  -
-Multiplication  *
-Division /
-Modulus %
-Grater >
-Grater or equal
-Less 
-Less or equal
-Not equal
-Equal
-*/
-
-//Your Name
-//Your ID
 class Main {
-  public static void main(String[] args) {
-      //Start your code 
-      
-  }
-}
+ public static void main(String[] args) {
+    Scanner myObj = new Scanner(System.in);
+    float num1;
+    float num2;
+    System.out.println("Enter a num");
+    num1 = myObj.nextFloat();
+    System.out.println("Enter a num");
+    num2 = myObj.nextFloat();
+    System.out.println(num1+num2);
+    System.out.println(num1-num2);
+    System.out.println(num1*num2);
+    System.out.println(num1/num2);
+    System.out.println(num1%num2);
+    System.out.println(num1>num2);
+    System.out.println(num1>=num2);
+    System.out.println(num1<num2);
+    System.out.println(num1<=num2);
+    System.out.println(num1!=num2);
+    System.out.println(num1==num2);
+   }
+ }
