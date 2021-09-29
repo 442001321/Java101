@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//@ perfect solution 5/5
 class Main {
  public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);
