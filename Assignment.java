@@ -1,6 +1,5 @@
 import java.util.Scanner;
-//@ perfect solution 4.5/5
-
+// your grade is 4.5/5
 //@ change the class name to match the file name ( Golden rule )
 class Main {
  public static void main(String[] args) {
