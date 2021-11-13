@@ -1,5 +1,9 @@
 import java.util.Random;
 import java.util.Scanner;
+//your grade is 4.5/5
+
+//fix class name and file name with no spaces at all for example :
+// Rock paper scissors should be Rockpaperscissors and the file name should be Rockpaperscissors.java
 public class Rock paper scissors {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

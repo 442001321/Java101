@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class Mid.java{
-public static void mid.java(String[] args) {
+public class Mid{
+public static void main(String[] args) {
 Scanner scan = new Scanner(System.in);
 String neme=scan.nextLine();
 int age=scan.nextInt();
