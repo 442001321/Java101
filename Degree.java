@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Degree {
+class Degree.java {
   public static void main(String [] args){
     Scanner scan = new Scanner(System.in);
   int  degree ;
